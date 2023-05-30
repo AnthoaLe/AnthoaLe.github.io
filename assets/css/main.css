@@ -3785,5 +3785,18 @@ input, select, textarea {
 		}
 	
 	.skills-divider i {
-		font-size: 7em;
+		font-size: 6em;
+	}
+
+	.socials > div {
+		display: flex;
+	}
+
+	.project-description > i {
+		font-size: 3.5em;
+	}
+
+	a.project-link{
+		text-decoration: none;
+		border-bottom-style: none;
 	}
