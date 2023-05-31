@@ -3792,9 +3792,14 @@ input, select, textarea {
 		display: flex;
 	}
 
-	.project-description > i {
-		font-size: 3.5em;
+	.project-description {
+		margin-bottom: 2em;
 	}
+
+		.project-description > i {
+			font-size: 3.5em;
+
+		}
 
 	a.project-link{
 		text-decoration: none;
