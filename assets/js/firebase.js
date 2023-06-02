@@ -7,7 +7,7 @@
 // // Your web app's Firebase configuration
 // // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // const firebaseConfig = {
-//   apiKey: "AIzaSyBRXByDBcDKweg59LtM6b3S8S4lXAC5rBc",
+//   apiKey: "AIzaSyC3GmR2r1A2eYBu9ehd-7M00y6tX1gtg1c",
 //   authDomain: "anhoale-portfolio-landing-page.firebaseapp.com",
 //   projectId: "anhoale-portfolio-landing-page",
 //   storageBucket: "anhoale-portfolio-landing-page.appspot.com",
