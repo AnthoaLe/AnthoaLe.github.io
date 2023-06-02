@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "anhoale-portfolio-landing-page",
     "public": ".",
     "ignore": [
       "firebase.json",
