@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sunflower
+- Font Author: Copyright 2008 The Sunflower Project Authors
+- Font Source: http://fonts.gstatic.com/s/sunflower/v14/RWmPoKeF8fUjqIj7Vc-0sMbiqYsGBGBzCw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

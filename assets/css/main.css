@@ -3805,3 +3805,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom-style: none;
 	}
+
+	.project-img {
+		border: 2px solid #000000;
+	}
